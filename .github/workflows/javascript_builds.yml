@@ -82,4 +82,4 @@ jobs:
         with:
           name: ${{ github.job }}
           path: bin/*
-          retention-days: 14
+          retention-days: 13
